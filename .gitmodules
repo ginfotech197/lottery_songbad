@@ -1,0 +1,7 @@
+[submodule "lottery_songbad_angular"]
+	path = lottery_songbad_angular
+	url = https://github.com/ginfotech197/lottery_songbad_angular.git
+
+[submodule "lottery_songbad_api"]
+	path = lottery_songbad_api
+	url = https://github.com/ginfotech197/lottery_songbad_api.git
