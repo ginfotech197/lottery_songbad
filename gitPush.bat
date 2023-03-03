@@ -11,6 +11,13 @@ git commit -m %1
 git pull
 git push
 
+cd ..
+cd lottery_songbad_production
+git add .
+git commit -m %1
+git pull
+git push
+
 cd..
 git add .
 git commit -m %1
