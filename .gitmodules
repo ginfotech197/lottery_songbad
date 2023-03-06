@@ -6,6 +6,6 @@
 	path = lottery_songbad_api
 	url = https://github.com/ginfotech197/lottery_songbad_api.git
 
-[submodule "lottery_songbad_production"]
-	path = lottery_songbad_production
-	url = https://github.com/ginfotech197/lottery_songbad_production.git
+[submodule "production_lottery_songbad"]
+	path = production_lottery_songbad
+	url = https://github.com/ginfotech197/production_lottery_songbad.git
