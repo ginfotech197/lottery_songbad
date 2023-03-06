@@ -5,3 +5,7 @@
 [submodule "lottery_songbad_api"]
 	path = lottery_songbad_api
 	url = https://github.com/ginfotech197/lottery_songbad_api.git
+
+[submodule "production_lottery_songbad"]
+	path = production_lottery_songbad
+	url = https://github.com/ginfotech197/production_lottery_songbad.git
